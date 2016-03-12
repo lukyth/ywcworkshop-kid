@@ -1,6 +1,6 @@
 {
   "name": "ywcworkshop-kid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A module created in YWC workshop.",
   "keywords": "ywcworkshop",
   "main": "main.js",
