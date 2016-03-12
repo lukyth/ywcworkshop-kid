@@ -1,11 +1,15 @@
 {
-  "name": "calculator",
+  "name": "ywcworkshop-kid",
   "version": "1.0.0",
-  "description": "",
+  "description": "A module created in YWC workshop.",
+  "keywords": "ywcworkshop",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": {
+    "name": "Kanitkorn Sujautra",
+    "email": "k.sujautra@gmail.com"
+  },
+  "license": "MIT"
 }
