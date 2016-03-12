@@ -4,6 +4,7 @@
   "description": "A module created in YWC workshop.",
   "keywords": "ywcworkshop",
   "main": "main.js",
+  "repository": "lukyth/ywcworkshop-kid",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
